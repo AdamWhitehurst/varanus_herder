@@ -8,11 +8,13 @@
    "aliases": {
       "class:varanus_herder": "file(jobs/varanus_herder/varanus_herder.lua)",
       "jobs:varanus_herder": "file(jobs/varanus_herder/varanus_herder_description.json)",
-      "varanus_herder:leash": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash.json)",
-      "varanus_herder:talisman": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash_talisman.json)"
+      "leash": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash.json)",
+      "talisman": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash_talisman.json)"
    },
    "functions": {},
-   "mixintos": {},
+   "mixintos": {
+      "/stonehearth/data/ui/start_menu.json": "file(mixins/start_menu.json)"
+   },
    "ui": {
       "js": [],
       "html": [],

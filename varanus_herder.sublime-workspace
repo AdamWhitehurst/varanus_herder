@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Shepherd",
+				"ShepherdClass"
+			],
+			[
 				"fre",
 				"freshBL"
 			],
@@ -427,8 +431,67 @@
 			"file": "manifest.json",
 			"settings":
 			{
-				"buffer_size": 264,
+				"buffer_size": 710,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jobs/varanus_herder/varanus_herder.lua",
+			"settings":
+			{
+				"buffer_size": 1009,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/cleric/cleric.lua",
+			"settings":
+			{
+				"buffer_size": 3040,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/base_job.lua",
+			"settings":
+			{
+				"buffer_size": 5261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/shepherd/shepherd.lua",
+			"settings":
+			{
+				"buffer_size": 9319,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jobs/varanus_herder/varanus_herder_description.json",
+			"settings":
+			{
+				"buffer_size": 3110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mixins/start_menu.json",
+			"settings":
+			{
+				"buffer_size": 641,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/user_settings.json",
+			"settings":
+			{
+				"buffer_size": 7458,
 				"line_ending": "Windows"
 			}
 		}
@@ -487,14 +550,36 @@
 	"expanded_folders":
 	[
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder"
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/debugtools",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/blacksmith",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/cleric",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/shepherd",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/lib",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/lib/algorithms",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/mixins"
 	],
 	"file_history":
 	[
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/stonehearth.log",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/ui/start_menu.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/archer/archer_description.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/shepherd/shepherd_description.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/hotkeys.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/data/ui/start_menu.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/manifest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/jobs/varanus_herder/varanus_herder_description.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash_iconic.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash_talisman.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/ai/actions/claim_animal_for_pasture.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/jobs/varanus_herder/varanus_herder_abilities/varanus_herder_abilities.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/jobs/varanus_herder/varanus_herder_leash/varanus_herder_crook_iconic.json",
 		"/C/Users/Adam/Desktop/BC.java",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/manifest.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/ui/start_menu.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/call_handlers/box_command_tool_call_handler/box_command_tool_call_handler.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/data/ui/start_menu.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/init_client.lua",
@@ -523,7 +608,6 @@
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/place_item_call_handler.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/debugtools/ui/entity_editor/entity_editor.html",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/hotkeys.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/js/libs/jquery.tooltipster.js",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/common/tooltip_helper/tooltip_helper.js",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/traits/magnificent_beard/magnificent_beard_trait.lua",
@@ -606,19 +690,7 @@
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/jump_to_last_followee/init.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/jump_to_last_followee/player_camera_controller_mixin.lua",
 		"/C/Users/Adam/AppData/Local/Temp/7zO88A8A626/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/stonehearth.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/speedrunlings/services/server/split_service/split_service.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/radiant/js/radiant/object.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/game.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/gridkeys/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/client/camera/follow_camera_controller.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/jump_to_last_followee/data/player_camera_controller_mixin.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/screen_panner/services/client/camera/edge_pan_camera_controller.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/start_menu/start_menu.html",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/locales/en.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/settlementdecor/jobs/gardener/skin/workshop.less",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/party_editor/party_editor.less",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/gridkeys/ui/gridkeys.js"
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/stonehearth.json"
 	],
 	"find":
 	{
@@ -629,6 +701,7 @@
 		"height": 118.0,
 		"where_history":
 		[
+			"C:\\Users\\Adam\\Documents\\Steam Client\\steamapps\\common\\Stonehearth\\mods\\varanus_herder",
 			"*.lua",
 			"*.js",
 			"",
@@ -655,6 +728,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"varanus_herdering",
+			"BaseJob",
+			"ShepherdClass",
+			"crook",
+			"stonehearth",
 			"start_menu",
 			" * ",
 			"newBL",
@@ -777,12 +855,7 @@
 			"radiant.each(",
 			"undeploy",
 			"radiant.call(",
-			"enable_lua_jit",
-			"lua jit",
-			"lua.data",
-			"getplayercamera",
-			"get_player_camera",
-			"radiant.call("
+			"enable_lua_jit"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -790,6 +863,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"shepherding",
+			"ShepherdClass",
+			"VaranusHerderClass",
+			"leash",
 			"",
 			"bl",
 			"box_",
@@ -852,7 +929,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -861,15 +938,31 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 264,
+						"buffer_size": 710,
 						"regions":
 						{
 						},
 						"selection":
 						[
+							[
+								633,
+								633
+							]
 						],
 						"settings":
 						{
+							"auto_complete": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 3,
 							"translate_tabs_to_spaces": true
@@ -878,7 +971,296 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "jobs/varanus_herder/varanus_herder.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LuaExtended/LuaExtended.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/cleric/cleric.lua",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LuaExtended/LuaExtended.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/base_job.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2080,
+								2080
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LuaExtended/LuaExtended.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/shepherd/shepherd.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								74
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LuaExtended/LuaExtended.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "jobs/varanus_herder/varanus_herder_description.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1231,
+								1231
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mixins/start_menu.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/user_settings.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1200,
+								1200
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -941,6 +1323,22 @@
 		"selected_items":
 		[
 			[
+				"shepherd",
+				"stonehearth\\jobs\\shepherd\\shepherd.lua"
+			],
+			[
+				"archer_de",
+				"stonehearth\\jobs\\archer\\archer_description.json"
+			],
+			[
+				"start_menu",
+				"stonehearth\\data\\ui\\start_menu.json"
+			],
+			[
+				"hotkeys",
+				"stonehearth\\hotkeys.json"
+			],
+			[
 				"manifest",
 				"stonehearth\\manifest.json"
 			],
@@ -955,10 +1353,6 @@
 			[
 				"entity_editor",
 				"debugtools\\ui\\entity_editor\\entity_editor.html"
-			],
-			[
-				"hotkeys",
-				"stonehearth\\hotkeys.json"
 			],
 			[
 				"tooltip",
@@ -1019,10 +1413,6 @@
 			[
 				"start_menu.js",
 				"stonehearth\\ui\\game\\start_menu\\start_menu.js"
-			],
-			[
-				"start_menu",
-				"stonehearth\\ui\\game\\start_menu\\start_menu.less"
 			],
 			[
 				"less",
@@ -1397,7 +1787,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 573.0,
+	"side_bar_width": 539.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

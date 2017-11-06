@@ -1,0 +1,16 @@
+{
+   "zone_menu": {
+      "items": {
+         "create_pasture": {
+            "name": "i18n(stonehearth:ui.game.menu.zone_menu.items.create_pasture.display_name)",
+            "description": "i18n(stonehearth:ui.game.menu.zone_menu.items.create_pasture.description)",
+            "required_job_role": "shepherd_job",
+            "required_job_text": "i18n(stonehearth:ui.game.menu.zone_menu.items.create_pasture.required_job_text)",
+            "class": "button",
+            "icon": "/stonehearth/ui/game/start_menu/images/zone_pasture.png",
+            "sticky": true,
+            "hotkey_action": "zone:pasture"
+         }
+      }
+   }
+}

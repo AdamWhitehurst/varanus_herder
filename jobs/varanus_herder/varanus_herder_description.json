@@ -8,7 +8,7 @@
    "description": "i18n(varanus_herder:jobs.varanus_herder.varanus_herder_description.description)",
    "controller": "varanus_herder:class:varanus_herder",
    "requirements": "i18n(varanus_herder:jobs.varanus_herder.varanus_herder_description.requirements)",
-   "talisman_uri": "varanus_herder:varanus_herder:talisman",
+   "talisman_uri": "varanus_herder:talisman",
    "default_stance": "passive",
    "icon": "file(images/icon.png)",
    "parent_job": "stonehearth:jobs:trapper",
@@ -16,9 +16,9 @@
    "abilities": "file(varanus_herder_abilities)",
    "equipment": {
       "torso": "file(varanus_herder_outfit)",
-      "mainhand": "stonehearth:varanus_herder:leash"
+      "mainhand": "varanus_herder:leash"
    },
-   "roles": "varanus_herder_job",
+   "roles": "varanus_herder_job shepherd_job",
    "promotion_activity_name": "promote_varanus_herder",
    "task_groups": [
       "stonehearth:task_group:common_tasks",
