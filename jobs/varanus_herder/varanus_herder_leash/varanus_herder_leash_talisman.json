@@ -1,0 +1,39 @@
+{
+   "type": "entity",
+   "mixins": "stonehearth:mixins:item_properties",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(varanus_herder_leash.qb)"
+            ]
+         }
+      },
+      "effect_list": {
+         "default": "stonehearth:effects:talisman_glow"
+      },
+      "stonehearth:promotion_talisman": {
+         "job": "varanus_herder:jobs:varanus_herder"
+      }
+   },
+   "entity_data": {
+      "stonehearth:net_worth": {
+         "value_in_gold": 15,
+         "rarity": "rare",
+         "shop_info": {
+            "buyable": true,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(varanus_herder:jobs.varanus_herder.varanus_herder_leash.varanus_herder_leash_talisman.display_name)",
+         "description": "i18n(varanus_herder:jobs.varanus_herder.varanus_herder_leash.varanus_herder_leash_talisman.description)",
+         "icon": "file(varanus_herder_leash.png)",
+         "is_item": true,
+         "category": "tools",
+         "material_tags": "stockpile_tool"
+      }
+   }
+}

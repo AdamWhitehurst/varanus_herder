@@ -1,0 +1,21 @@
+{
+   "info": {
+      "name": "varanus_herder",
+      "display_name": "Varanus Herder",
+      "version": 3
+   },
+   "default_locale": "en",
+   "aliases": {
+      "class:varanus_herder": "file(jobs/varanus_herder/varanus_herder.lua)",
+      "jobs:varanus_herder": "file(jobs/varanus_herder/varanus_herder_description.json)",
+      "varanus_herder:leash": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash.json)",
+      "varanus_herder:talisman": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash_talisman.json)"
+   },
+   "functions": {},
+   "mixintos": {},
+   "ui": {
+      "js": [],
+      "html": [],
+      "less": []
+   }
+}
