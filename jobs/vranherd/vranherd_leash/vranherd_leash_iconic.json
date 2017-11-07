@@ -12,8 +12,8 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(vranherd:jobs.vranherd.vranherd_leash.vranherd_leash_iconic.display_name)",
-         "description": "i18n(vranherd:jobs.vranherd.vranherd_leash.vranherd_leash_iconic.description)",
+         "display_name": "i18n(vranherd:jobs.vranherd.vranherd_leash.display_name)",
+         "description": "i18n(vranherd:jobs.vranherd.vranherd_leash.description)",
          "icon": "file(vranherd_leash.png)",
          "is_item": true,
          "category": "tools",

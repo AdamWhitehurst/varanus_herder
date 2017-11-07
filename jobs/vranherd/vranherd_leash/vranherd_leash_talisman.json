@@ -28,8 +28,8 @@
          }
       },
       "stonehearth:catalog": {
-         "display_name": "i18n(vranherd:jobs.vranherd.vranherd_leash.vranherd_leash_talisman.display_name)",
-         "description": "i18n(vranherd:jobs.vranherd.vranherd_leash.vranherd_leash_talisman.description)",
+         "display_name": "i18n(vranherd:jobs.vranherd.vranherd_leash.display_name)",
+         "description": "i18n(vranherd:jobs.vranherd.vranherd_leash.description)",
          "icon": "file(vranherd_leash.png)",
          "is_item": true,
          "category": "tools",

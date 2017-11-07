@@ -1,0 +1,34 @@
+{
+   "jobs": {
+      "vranherd": {
+         "vranherd_leash": {
+            "display_name": "Vranherd Leash",
+            "description": "Let's pretend it actually does some taming."
+         },
+         "vranherd_description": {
+            "display_name": "Vranherd",
+            "description": "Wrangles varanus sometimes, mostly just takes their eggs. Can raise unique variations of varanus's.",
+            "requirements": "Who would craft such a thing?",
+            "level_1_data": {
+               "perk_000_name": "Vranherd Perk 1",
+               "perk_000_description": "Does perk 1 stuff."
+            },
+            "level_3_data": {
+               "perk_000_name": "Vranherd Perk 2",
+               "perk_000_description": "Perk 2 unlocks at level 3, whaaaaa-"
+            },
+            "level_4_data": {
+               "perk_000_name": "Vranherd Perk 3",
+               "perk_000_description": "Still doing what it does."
+            },
+            "level_6_data": {
+               "title": "Just a Title for Perk 4"
+            }
+         },
+         "vranherd_outfit": {
+            "display_name": "Vranherd Robe",
+            "description": "Standard issue varanaus-wrangling attire."
+         }
+      }
+   }
+}
