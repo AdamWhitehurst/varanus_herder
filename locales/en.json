@@ -30,5 +30,15 @@
             "description": "Standard issue varanaus-wrangling attire."
          }
       }
+   },
+   "entities": {
+      "critters": {
+         "varanus": {
+            "varanus_egg": {
+               "display_name": "Varanus Egg",
+               "description": "Un-egg-spectedly heavy."
+            }
+         }
+      }
    }
 }

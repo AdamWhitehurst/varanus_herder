@@ -1,0 +1,25 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(varanus_egg.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": -0.05, "y": 0, "z": 0 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(vranherd:entities.critters.varanus.varanus_egg.display_name)",
+         "description": "i18n(vranherd:entities.critters.varanus.varanus_egg.description)",
+         "icon": "file(varanus_egg.png)",
+         "category": "uncategorized",
+         "material_tags": "fertilized_egg varanus_egg"
+      }
+   }
+}

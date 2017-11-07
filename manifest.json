@@ -8,7 +8,8 @@
    "aliases": {
       "jobs:vranherd": "file(jobs/vranherd/vranherd_description.json)",
       "leash": "file(jobs/vranherd/vranherd_leash/vranherd_leash.json)",
-      "talisman": "file(jobs/vranherd/vranherd_leash/vranherd_leash_talisman.json)"
+      "talisman": "file(jobs/vranherd/vranherd_leash/vranherd_leash_talisman.json)",
+      "varanus:egg": "file(entities/critters/poyo/egg/varanus_egg.json)"
    },
    "controllers": {
       "class:vranherd": "file(jobs/vranherd/vranherd.lua)"
