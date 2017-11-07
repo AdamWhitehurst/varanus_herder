@@ -6,14 +6,17 @@
    },
    "default_locale": "en",
    "aliases": {
-      "class:varanus_herder": "file(jobs/varanus_herder/varanus_herder.lua)",
       "jobs:varanus_herder": "file(jobs/varanus_herder/varanus_herder_description.json)",
       "leash": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash.json)",
       "talisman": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash_talisman.json)"
    },
+   "controllers": {
+      "class:varanus_herder": "file(jobs/varanus_herder/varanus_herder.lua)"
+   },
    "functions": {},
    "mixintos": {
-      "/stonehearth/data/ui/start_menu.json": "file(mixins/start_menu.json)"
+      "/stonehearth/data/ui/start_menu.json": "file(mixins/start_menu.json)",
+      "stonehearth:jobs:index": "file(jobs/index.json)"
    },
    "ui": {
       "js": [],
