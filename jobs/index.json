@@ -1,7 +1,7 @@
 {
    "jobs" : {
-      "varanus_herder:jobs:varanus_herder" : {
-         "description" : "varanus_herder:jobs:varanus_herder"
+      "vranherd:jobs:vranherd" : {
+         "description" : "vranherd:jobs:vranherd"
       }
    }
 }

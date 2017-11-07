@@ -5,12 +5,12 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(varanus_herder_leash_equipped.qb)"
+               "file(vranherd_leash_equipped.qb)"
             ]
          }
       },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(varanus_herder_leash_iconic.json)"
+         "iconic_form": "file(vranherd_leash_iconic.json)"
       },
       "stonehearth:equipment_piece": {
          "slot": "mainhand",
@@ -43,9 +43,9 @@
          }
       },
       "stonehearth:catalog": {
-         "display_name": "i18n(stonehearth:jobs.varanus_herder.varanus_herder_leash.display_name)",
-         "description": "i18n(stonehearth:jobs.varanus_herder.varanus_herder_leash.description)",
-         "icon": "file(varanus_herder_leash.png)",
+         "display_name": "i18n(vranherd:jobs.vranherd.vranherd_leash.display_name)",
+         "description": "i18n(vranherd:jobs.vranherd.vranherd_leash.description)",
+         "icon": "file(vranherd_leash.png)",
          "category": "tools",
          "material_tags": "tool"
       }

@@ -7,13 +7,13 @@
          "default": {
             "layer": "clothing",
             "models": [
-               "file(varanus_herder_outfit.qb)"
+               "file(vranherd_outfit.qb)"
             ]
          },
          "female": {
             "layer": "clothing",
             "models": [
-               "file(varanus_herder_outfit_female.qb)"
+               "file(vranherd_outfit_female.qb)"
             ]
          }
       },
@@ -24,9 +24,9 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(stonehearth:jobs.varanus_herder.varanus_herder_outfit.display_name)",
-         "description": "i18n(stonehearth:jobs.varanus_herder.varanus_herder_outfit.description)",
-         "icon": "file(varanus_herder_outfit.png)",
+         "display_name": "i18n(vranherd:jobs.vranherd.vranherd_outfit.display_name)",
+         "description": "i18n(vranherd:jobs.vranherd.vranherd_outfit.description)",
+         "icon": "file(vranherd_outfit.png)",
          "material_tags": "cloth"
       }
    }

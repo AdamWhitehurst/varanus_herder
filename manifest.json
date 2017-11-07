@@ -1,17 +1,17 @@
 {
    "info": {
-      "name": "varanus_herder",
-      "display_name": "Varanus Herder",
+      "name": "vranherd",
+      "display_name": "Vranherd",
       "version": 3
    },
    "default_locale": "en",
    "aliases": {
-      "jobs:varanus_herder": "file(jobs/varanus_herder/varanus_herder_description.json)",
-      "leash": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash.json)",
-      "talisman": "file(jobs/varanus_herder/varanus_herder_leash/varanus_herder_leash_talisman.json)"
+      "jobs:vranherd": "file(jobs/vranherd/vranherd_description.json)",
+      "leash": "file(jobs/vranherd/vranherd_leash/vranherd_leash.json)",
+      "talisman": "file(jobs/vranherd/vranherd_leash/vranherd_leash_talisman.json)"
    },
    "controllers": {
-      "class:varanus_herder": "file(jobs/varanus_herder/varanus_herder.lua)"
+      "class:vranherd": "file(jobs/vranherd/vranherd.lua)"
    },
    "functions": {},
    "mixintos": {

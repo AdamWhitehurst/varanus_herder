@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(varanus_herder_leash.qb)"
+               "file(vranherd_leash.qb)"
             ]
          }
       },
@@ -13,7 +13,7 @@
          "default": "stonehearth:effects:talisman_glow"
       },
       "stonehearth:promotion_talisman": {
-         "job": "varanus_herder:jobs:varanus_herder"
+         "job": "vranherd:jobs:vranherd"
       }
    },
    "entity_data": {
@@ -28,9 +28,9 @@
          }
       },
       "stonehearth:catalog": {
-         "display_name": "i18n(varanus_herder:jobs.varanus_herder.varanus_herder_leash.varanus_herder_leash_talisman.display_name)",
-         "description": "i18n(varanus_herder:jobs.varanus_herder.varanus_herder_leash.varanus_herder_leash_talisman.description)",
-         "icon": "file(varanus_herder_leash.png)",
+         "display_name": "i18n(vranherd:jobs.vranherd.vranherd_leash.vranherd_leash_talisman.display_name)",
+         "description": "i18n(vranherd:jobs.vranherd.vranherd_leash.vranherd_leash_talisman.description)",
+         "icon": "file(vranherd_leash.png)",
          "is_item": true,
          "category": "tools",
          "material_tags": "stockpile_tool"
