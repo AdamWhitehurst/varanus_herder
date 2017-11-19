@@ -1,0 +1,14 @@
+{
+   "type": "encounter",
+   "encounter_type": "generator",
+   "in_edge": "start",
+   "generator_info": {
+      "delay": "24h",
+      "spawn_edge": {
+         "type": "trigger_one",
+         "out_edges": [
+            "create_varanus_nest"
+         ]
+      }
+   }
+}

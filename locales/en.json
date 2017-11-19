@@ -40,5 +40,18 @@
             }
          }
       }
+   },
+   "data": {
+      "gm": {
+         "campaigns": {
+            "varanus": {
+               "varanus_nest": {
+                  "combat_bulletin": {
+                     "title": "create varanus nest: NEST SPAWNED"
+                  }
+               }
+            }
+         }
+      }
    }
 }

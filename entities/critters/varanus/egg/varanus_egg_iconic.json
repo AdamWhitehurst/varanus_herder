@@ -9,6 +9,12 @@
             ]
          }
       },
+      "effect_list": {
+         "default": "stonehearth:effects:talisman_glow"
+      },
+      "stonehearth:promotion_talisman": {
+         "job": "vranherd:jobs:vranherd"
+      },
       "mob": {
          "model_origin": { "x": 0, "y": 0, "z": 0 }
       }

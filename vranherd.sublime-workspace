@@ -4,6 +4,86 @@
 		"selected_items":
 		[
 			[
+				"scr",
+				"scraggleScriptFont\t variables.less"
+			],
+			[
+				"yOf",
+				"yOffsetScaled〔variable〕"
+			],
+			[
+				"xO",
+				"xOffsetScaled"
+			],
+			[
+				"inn",
+				"innerHeight〔variable〕"
+			],
+			[
+				"window",
+				"window.innerWidth"
+			],
+			[
+				"cu",
+				"cursorSize"
+			],
+			[
+				"wind",
+				"window.innerWidth"
+			],
+			[
+				"cursorSi",
+				"cursorSizeScaled"
+			],
+			[
+				"yO",
+				"yOffsetScale"
+			],
+			[
+				"y",
+				"yOffsetScale"
+			],
+			[
+				"xOf",
+				"xOffsetScale"
+			],
+			[
+				"hov",
+				"hoverStartX〔variable〕"
+			],
+			[
+				"fun",
+				"function\tfunction"
+			],
+			[
+				"ho",
+				"hoverEntity"
+			],
+			[
+				"tool",
+				"tooltipTitle〔variable〕"
+			],
+			[
+				"to",
+				"tooltipAdditional"
+			],
+			[
+				"tooltip",
+				"tooltipDescription"
+			],
+			[
+				"pa",
+				"pageY"
+			],
+			[
+				"sh",
+				"showTipDelay"
+			],
+			[
+				"clear",
+				"clearTimeout〔function〕"
+			],
+			[
 				"Shepherd",
 				"ShepherdClass"
 			],
@@ -18,10 +98,6 @@
 			[
 				"sho",
 				"showTipInterval"
-			],
-			[
-				"fun",
-				"function〔keyword〕"
 			],
 			[
 				"back",
@@ -224,10 +300,6 @@
 				"rootGroup"
 			],
 			[
-				"ho",
-				"hotkeyManager"
-			],
-			[
 				"bin",
 				"bindRootGroup"
 			],
@@ -300,16 +372,8 @@
 				"equipment_component"
 			],
 			[
-				"sh",
-				"shepherded_animal_equip"
-			],
-			[
 				"p",
 				"pet_prefs_component"
-			],
-			[
-				"pa",
-				"pasture_component"
 			],
 			[
 				"crit",
@@ -428,28 +492,55 @@
 	"buffers":
 	[
 		{
+			"file": "entities/critters/varanus/egg/varanus_egg_iconic.json",
+			"settings":
+			{
+				"buffer_size": 813,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ui/root/css/variables.less",
+			"settings":
+			{
+				"buffer_size": 566,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ui/root/css/fonts/scraggletooth/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 307,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ui/game/promotion_tree/promotion_tree.less",
+			"settings":
+			{
+				"buffer_size": 120,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/css/variables.less",
+			"settings":
+			{
+				"buffer_size": 1672,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "manifest.json",
 			"settings":
 			{
-				"buffer_size": 708,
+				"buffer_size": 1012,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "locales/en.json",
-			"settings":
-			{
-				"buffer_size": 4,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/locales/en.json",
-			"settings":
-			{
-				"buffer_size": 362,
 				"line_ending": "Windows"
 			}
 		}
@@ -461,8 +552,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 335.0,
-		"last_filter": "install",
+		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -486,7 +577,7 @@
 				"About"
 			]
 		],
-		"width": 444.0
+		"width": 412.0
 	},
 	"console":
 	{
@@ -507,12 +598,88 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth"
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods"
 	],
 	"file_history":
 	[
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/ui/root/css/fonts/dk_kodama_forest/stylesheet.css",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/ui/root/css/fonts/twin_marker/stylesheet.css",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/ui/root/css/fonts/scraggletooth/stylesheet.css",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/ui/root/css/fonts/metalshard/stylesheet.css",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/ui/root/css/fonts/angryblue_controlled/stylesheet.css",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/ui/game/promotion_tree/promotion_tree.less",
+		"/C/Users/Adam/AppData/Local/Temp/7zO4FFDD418/stylesheet.css",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/manifest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/manifest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/css/style.less",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/ui/root/css/fonts/wcmanonegrabta_regular/stylesheet.css",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/css/variables.less",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/jobs/vranherd/vranherd_description.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/user_settings.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/entities/critters/varanus/egg/varanus_egg.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus/arcs/trigger/encounters/create_varanus_nest/nest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/monster_tuning/forest/easy_alligator.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus/arcs/trigger/encounters/generate_varanus_nest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/gm/campaigns/game_events/arcs/trigger/game_events/encounters/happiness_intro.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/debugtools/html/font-awesome-4.3.0/less/font-awesome.less",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/css/fonts/scriptina/SCRIPTIN_RADIANT-webfont.svg",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/js/libs/i18next-1.10.1.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/vranherd/arcs/varanus_campaign.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/rayyas_children/data/gm/campaigns/trader/trader_campaign.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/rayyas_children/data/gm/campaigns/trader/arcs/encounters/wait_for_afternoon.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/ui/edge_pan.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus/arcs/trigger/encounters/create_varanus_nest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/gm_index.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/gm/campaigns/ambient_threats/arcs/trigger/ambient_threats/encounters/generate_daily_threat.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus/varanus_campaign.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus/arcs/trigger/nests_arc.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/gm/campaigns/goblin_war/arcs/challenge/forward_scouts/encounters/create_scout_camp.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/gm/campaigns/goblin_war/arcs/trigger/raidcamp/encounters/create_camp/goblin_hut.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/gm/campaigns/goblin_war/arcs/trigger/raidcamp/encounters/create_camp/goblin_tent.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/gm/campaigns/goblin_war/arcs/trigger/raidcamp/encounters/create_camp/campfire.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/gm/campaigns/goblin_war/arcs/trigger/raidcamp/encounters/wait_for_moving_on.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/rayyas_children/manifest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/gm/campaigns/ambient_threats/arcs/trigger/ambient_threats/encounters/pack_of_alligators.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus/arcs/trigger/encounters/wait_for_8_am.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus/arcs/trigger/encounters/generate_varanus_camp.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus/arcs/nests_arc.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/varanus_campaign/varanus_campaign.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/campaigns/vranherd/encounters/varanus_encounters.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/vranherd/encounters/varanus_encounters.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/encounters/arc.json",
+		"/C/Users/Adam/AppData/Roaming/Mozilla/Firefox/Profiles/4v5s8ii8.default-1510706033367/addons.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/data/gm/vranherd/encounters/arc.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/traces/catalog.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/manifest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/call_handlers/edge_pan_call_handler/edge_pan_call_handler.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/manifest.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/ui/edge_pan.less",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/ui/hover_tooltip_facade.html",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/call_handlers/hover_tooltip_call_handler/hover_tooltip_call_handler.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/radiant/modules/entities.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/stonehearth.log",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/stonehearth_server.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/components/ai/ai_component.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/town/town.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/start_menu/stonehearth_menu.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/bulletin/bulletin_board.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/character_sheets/citizen_character_sheet/citizen_character_sheet.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/common/tooltip_helper/tooltip_helper.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/common/hotkey_manager/hotkey_manager.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/item_palette/item_palette.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/ui/edge_pan.html",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/gridkeys/ui/game/start_menu/start_menu.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/client/selection/selection_service.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/IDE.sublime-project",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/debugtools/ui/object_browser/object_browser.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/client/hilight/hilight_service.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/js/stonehearth/stonehearth_client.js",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/locales/en.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/jobs/vranherd/vranherd_leash/vranherd_leash_talisman.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/locales/en.json",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/server/world_generation/landscaper.lua",
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/shell/title/title.js",
+		"/C/Users/Adam/Desktop/BC.java",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/mixins/start_menu.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/vranherd/jobs/index.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/shepherd/shepherd.lua",
@@ -523,7 +690,6 @@
 		"/C/Users/Adam/AppData/Local/Temp/7zO87A0E3DD/fisher_description.json",
 		"/C/Users/Adam/AppData/Local/Temp/7zO87A0A35A/fisher.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/base_job.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/stonehearth.log",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/jobs/index.json",
 		"/C/Users/Adam/AppData/Local/Temp/7zO87A3BAB9/index.json",
 		"/C/Users/Adam/AppData/Local/Temp/7zO87AF3511/manifest.json",
@@ -544,9 +710,6 @@
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/ai/actions/claim_animal_for_pasture.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/jobs/varanus_herder/varanus_herder_abilities/varanus_herder_abilities.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/varanus_herder/jobs/varanus_herder/varanus_herder_leash/varanus_herder_crook_iconic.json",
-		"/C/Users/Adam/Desktop/BC.java",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/manifest.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/call_handlers/box_command_tool_call_handler/box_command_tool_call_handler.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/data/ui/start_menu.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/init_client.lua",
@@ -554,92 +717,19 @@
 		"/C/Users/Adam/Desktop/box_command_tool/manifest.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/tip_popup/tip_popup.js",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/js/libs/jquery-1.10.2.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/client/hilight/hilight_service.lua",
 		"/C/Users/Adam/AppData/Roaming/npm/node_modules/lesshint/lib/config/defaults.json",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/speedrunlings/ui/speedrunlings_main_window/speedrunlings_main_window.less",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/ui/edge_pan.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/ui/edge_pan.html",
 		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeLinter-contrib-lesshint.sublime-package",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/ui/edge_pan.less",
 		"/C/Users/Adam/Documents/Portfolio/app/manifest.json",
 		"/C/Users/Adam/AppData/Local/Temp/7zO0C210903/manifest.json",
 		"/C/Users/Adam/AppData/Local/Temp/7zO4924B336/swamp_goblins_client.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/traits/animal_companion/animal_companion_script.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/components/happiness/happiness_component.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/server/conversation/conversation_manager.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/radiant/modules/entities.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/components/commands/commands_component.lua",
 		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/client/build_editor/item_placer.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/place_item_call_handler.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/debugtools/ui/entity_editor/entity_editor.html",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/edge_pan/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/js/libs/jquery.tooltipster.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/common/tooltip_helper/tooltip_helper.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/traits/magnificent_beard/magnificent_beard_trait.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/client/selection/selection_service.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/client/selection/xz_region_selector.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/ui/box_command_tool.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/components/door/door_component.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/radiant/modules/client_entities.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/biome/temperate_generation_data.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/lib/build_util.lua",
-		"/C/Users/Adam/Desktop/box_command_tool/ui/box_command_tool.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/hotkeys.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/resource_call_handler.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/selection_call_handler.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/start_menu/stonehearth_menu.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/mining_call_handler.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/start_menu/start_menu.less",
-		"/C/Users/Adam/Desktop/box_command_tool/data/ui/start_menu.json",
-		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/server_init.lua",
-		"/C/Users/Adam/Desktop/box_command_tool/locales/en.json",
-		"/C/Users/Adam/Desktop/box_command_tool/hotkeys.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/call_handlers/mass_command_tool_call_handler/mass_command_tool_call_handler.lua",
-		"/C/Users/Adam/Desktop/box_command_tool/server_init.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/trapping_call_handler.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/shepherd_call_handler.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/js/stonehearth/stonehearth_client.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/ui/mass_command_tool.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/services/server/mass_command/mass_command_service.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/start_menu/start_menu.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/server/bulletin_board/bulletin_board_service.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/services/server/mass_command_tool/mass_command_service.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/services/client/camera/camera_service.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/game.less",
-		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
-		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-		"/C/Users/Adam/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/microworld/micro_world_server.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/stonehearth_client.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/components/thoughts/thoughts_component.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/game/modes/build_mode/place_item/place_item.js",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/data/ui/start_menu.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/locales/en.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/hotkeys.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/gridkeys/hotkeys.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/components/farmer_field/farmer_field_component.lua",
-		"/C/Users/Adam/Documents/Starcraft/CSettings.json",
-		"/C/Users/Adam/AppData/Local/Temp/7zOC8A5C484/follow_cam_remembers.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/never_furrow_fields/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/never_furrow_fields/never_furrow_fields.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/farming_call_handler.lua",
-		"/C/Users/Adam/AppData/Local/Temp/7zOC8AC7B51/follow_cam_remembers.lua",
-		"/C/Users/Adam/AppData/Local/Temp/7zOC8A826C2/manifest.json",
-		"/C/Users/Adam/Desktop/never_furrow_fields/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ai/actions/till_field_adjacent_action.lua",
-		"/C/Users/Adam/Desktop/never_furrow_fields/never_furrow_fields.lua",
-		"/C/Users/Adam/Desktop/never_furrow_fields/follow_cam_remembers.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/microworld/worlds/settlement_test_world.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/data/interactions/extractors/field_layer_extractor.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_command_tool/call_handlers/mass_undeploy_call_handler/mass_undeploy_call_handler.lua",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_undeploy/data/ui/start_menu.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_undeploy/hotkeys.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_undeploy/locales/en.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_undeploy/manifest.json",
-		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/mass_undeploy/ui/mass_command_tool.js"
+		"/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/call_handlers/place_item_call_handler.lua"
 	],
 	"find":
 	{
@@ -650,6 +740,28 @@
 		"height": 118.0,
 		"where_history":
 		[
+			"-*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"*.less, -*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			" -*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"*.js, -*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"*.lua, -*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"-*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"*.js,-*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"*.js-*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"-*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"*.js,-*/radiant/lib/*,-*/radiant/js/*, -*/stonehearth/ui/root/js/libs/*",
+			"*.js,-*/radiant/lib/*,-*/radiant/js/*",
+			"*.js,-*C:\\Users\\Adam\\Documents\\Steam Client\\steamapps\\common\\Stonehearth\\mods\\radiant\\lib\\*,-*C:\\Users\\Adam\\Documents\\Steam Client\\steamapps\\common\\Stonehearth\\mods\\radiant\\js\\*",
+			"*.js,-*C:\\Users\\Adam\\Documents\\Steam Client\\steamapps\\common\\Stonehearth\\mods\\radiant\\lib*,-*C:\\Users\\Adam\\Documents\\Steam Client\\steamapps\\common\\Stonehearth\\mods\\radiant\\js*",
+			"*.js,-C:\\Users\\Adam\\Documents\\Steam Client\\steamapps\\common\\Stonehearth\\mods\\radiant\\lib,-C:\\Users\\Adam\\Documents\\Steam Client\\steamapps\\common\\Stonehearth\\mods\\radiant\\js",
+			"*.js",
+			"",
+			"*.lua",
+			"*.js",
+			"*.lua",
+			"",
+			"*.lua",
+			"",
 			"C:\\Users\\Adam\\Documents\\Steam Client\\steamapps\\common\\Stonehearth\\mods\\vranherd",
 			"",
 			"*.lua",
@@ -680,6 +792,78 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"style.less",
+			"base.less",
+			"scriptFont",
+			"style",
+			"varia",
+			"variable",
+			"@scriptFontFamily",
+			".scriptFont",
+			"scriptFont",
+			"firepit",
+			"CefSettings",
+			"StonehearthCatalog",
+			"App.stonehearthCatalog",
+			"uri",
+			"= self",
+			"description",
+			"stonehearth.catalog",
+			"catalog_comp",
+			"catalog",
+			"unit_info",
+			"get_unit_info",
+			"unit",
+			"unitinfo",
+			"getunit",
+			"get_unit",
+			"unit_info",
+			"geturi",
+			"get_uri",
+			"get_data",
+			"get_object",
+			"entity.",
+			"getID",
+			"(this).",
+			"html",
+			"gethtml",
+			"loadhtml",
+			".tooltipster(",
+			"makeTooltipWithHotkeys",
+			");",
+			"follower",
+			"createTooltip",
+			"createToolTip",
+			"StonehearthTooltipHelper",
+			"tooltip",
+			"stonehearth.hilight",
+			"get_hilighted",
+			"hilight_entity",
+			"getSelectedEntity",
+			"selection",
+			"hilight",
+			"hilighted_changed",
+			"stonehearth:hilighted_changed",
+			"radiant.listen",
+			"radiant.",
+			"radiant.events",
+			"listen",
+			"get_selected_command",
+			"selected",
+			"load_template",
+			"toHTML",
+			"loadHTML",
+			"getHTML",
+			"get_html",
+			"load_html",
+			"html",
+			"json",
+			"hilight_entity",
+			"hilight",
+			"mouse_position",
+			"_coordinates",
+			"_to_world",
+			"screen_to",
 			"i18n(stonehearth",
 			"ShepherdClass",
 			"curr_job_controller",
@@ -735,79 +919,7 @@
 			"command",
 			"c++",
 			"could not dispatch",
-			"choose_place",
-			"_fail_fn",
-			"place_item_type_in_world",
-			"more",
-			"deferred",
-			"transactional",
-			"place_item",
-			"choose_place_item_location",
-			"mc_comm",
-			"efc",
-			"cube3",
-			"mass_",
-			"box_command",
-			"mass_command_tool",
-			"MassCommandCallHandler",
-			"_valid_endpoints",
-			"draw_region_outline_marquee",
-			"_infer_mode",
-			"xz_cell_size",
-			"designate_mining_zone",
-			"_get_dig_region",
-			"set_can_contain_entity_filter",
-			"set_can_contain_filter",
-			"response",
-			"_radiant.call(",
-			"_on_mouse_event",
-			"designate_mining_zone",
-			"returned non-table type",
-			"mass_command_server",
-			"debugtools",
-			"mass_command_server",
-			"entity:get_id",
-			"assert(",
-			"_radiant.call(",
-			"choose_place_item_location",
-			"_radiant.call(",
-			"choose_place_item_location",
-			"callback = {",
-			"response = {",
-			"[#",
-			"ItemPlacer(",
-			"choose_place_item_location",
-			"item_placer",
-			"place_item_in_world",
-			"move_item",
-			"stonehearth:move_item",
-			"stonehearth:place_item",
-			"place_item",
-			"radiant_place_item",
-			"redeploy_item",
-			"redploy_item",
-			"'radiant:",
-			"follow_cam_remembers",
-			"PlayerCameraController",
-			"never_furrow_fields",
-			"- 1",
-			"+ 1",
-			"stonehearth.farming",
-			"stonehearth:sounds:ui:start_menu:trigger_click",
-			"radiant.call('radiant:play_sound'",
-			"mass_command_tool",
-			"mass_undeploy_call_handler",
-			"MassUndeployCallHandler",
-			"mass_undeploy",
-			"$(top).on",
-			"game_speed",
-			"jump_to_last_followee",
-			"JumpToLastFollowee",
-			"homf",
-			"_lastSelectedFollowee",
-			"stonehearth.selection",
-			"cam:follow",
-			"_panEnabled"
+			"choose_place"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -815,6 +927,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"catalog_data",
+			"catalog_comp",
+			"hoverTooltip",
 			"i18n(vranherd",
 			"VaranusHerderClass",
 			"shepherding",
@@ -888,19 +1003,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "manifest.json",
+					"file": "entities/critters/varanus/egg/varanus_egg_iconic.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 708,
+						"buffer_size": 813,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								813,
+								813
 							]
 						],
 						"settings":
@@ -910,10 +1025,6 @@
 							[
 								{
 									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -929,29 +1040,28 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "locales/en.json",
+					"file": "ui/root/css/variables.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4,
+						"buffer_size": 566,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2,
-								2
+								531,
+								531
 							]
 						],
 						"settings":
 						{
-							"auto_complete": true,
 							"auto_complete_triggers":
 							[
 								{
@@ -963,7 +1073,7 @@
 									"selector": "text.html"
 								}
 							],
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -974,11 +1084,11 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/box_command_tool/locales/en.json",
+					"file": "ui/root/css/fonts/scraggletooth/stylesheet.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 362,
+						"buffer_size": 307,
 						"regions":
 						{
 						},
@@ -1002,14 +1112,133 @@
 									"selector": "text.html"
 								}
 							],
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ui/game/promotion_tree/promotion_tree.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Adam/Documents/Steam Client/steamapps/common/Stonehearth/mods/stonehearth/ui/root/css/variables.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								613,
+								613
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1072,6 +1301,94 @@
 		"selected_items":
 		[
 			[
+				"variables",
+				"mods\\stonehearth\\ui\\root\\css\\variables.less"
+			],
+			[
+				"font",
+				"Stonehearth\\mods\\debugtools\\html\\font-awesome-4.3.0\\less\\font-awesome.less"
+			],
+			[
+				"script",
+				"mods\\stonehearth\\ui\\root\\css\\fonts\\scriptina\\SCRIPTIN_RADIANT-webfont.svg"
+			],
+			[
+				"user_",
+				"Stonehearth\\user_settings.json"
+			],
+			[
+				"manifest",
+				"mods\\vranherd\\manifest.json"
+			],
+			[
+				"manfest",
+				"mods\\stonehearth\\manifest.json"
+			],
+			[
+				"nest.json",
+				"mods\\vranherd\\data\\gm\\campaigns\\varanus\\arcs\\trigger\\encounters\\create_varanus_nest\\nest.json"
+			],
+			[
+				"create_sc",
+				"mods\\stonehearth\\data\\gm\\campaigns\\goblin_war\\arcs\\challenge\\forward_scouts\\encounters\\create_scout_camp.json"
+			],
+			[
+				"edge_pan.js",
+				"mods\\edge_pan\\ui\\edge_pan.js"
+			],
+			[
+				"user",
+				"Stonehearth\\user_settings.json"
+			],
+			[
+				"hover_",
+				"mods\\edge_pan\\ui\\hover_tooltip_facade.html"
+			],
+			[
+				"catalog",
+				"mods\\stonehearth\\ui\\game\\traces\\catalog.js"
+			],
+			[
+				"manifes",
+				"mods\\stonehearth\\manifest.json"
+			],
+			[
+				"stone",
+				"Stonehearth\\stonehearth.log"
+			],
+			[
+				"mani",
+				"mods\\edge_pan\\manifest.json"
+			],
+			[
+				"us",
+				"Stonehearth\\user_settings.json"
+			],
+			[
+				"edge_",
+				"Stonehearth\\mods\\edge_pan\\call_handlers\\edge_pan_call_handler\\edge_pan_call_handler.lua"
+			],
+			[
+				"manife",
+				"mods\\stonehearth\\manifest.json"
+			],
+			[
+				"stonehe",
+				"Stonehearth\\stonehearth.log"
+			],
+			[
+				"hili",
+				"mods\\stonehearth\\services\\client\\hilight\\hilight_service.lua"
+			],
+			[
+				"user_s",
+				"Stonehearth\\user_settings.json"
+			],
+			[
+				"title.js",
+				"mods\\stonehearth\\ui\\shell\\title\\title.js"
+			],
+			[
 				"en.",
 				"mods\\box_command_tool\\locales\\en.json"
 			],
@@ -1096,16 +1413,8 @@
 				"stonehearth\\hotkeys.json"
 			],
 			[
-				"manifest",
-				"stonehearth\\manifest.json"
-			],
-			[
 				"entities",
 				"radiant\\modules\\entities.lua"
-			],
-			[
-				"manifes",
-				"stonehearth\\manifest.json"
 			],
 			[
 				"entity_editor",
@@ -1122,10 +1431,6 @@
 			[
 				"item_pla",
 				"stonehearth\\services\\client\\build_editor\\item_placer.lua"
-			],
-			[
-				"mani",
-				"box_command_tool\\manifest.json"
 			],
 			[
 				"selection_",
@@ -1182,10 +1487,6 @@
 			[
 				"speedrunling",
 				"speedrunlings\\ui\\speedrunlings_main_window\\speedrunlings_main_window.less"
-			],
-			[
-				"stonehe",
-				"stonehearth\\stonehearth_client.lua"
 			],
 			[
 				"camera_s",
@@ -1544,7 +1845,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 221.0,
+	"side_bar_width": 352.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

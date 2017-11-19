@@ -1,0 +1,11 @@
+{
+   "type": "campaign",
+   "rarity": "common",
+   "arcs": {
+      "trigger": {
+         "nests_arc": "file(arcs/trigger/nests_arc.json)"
+      },
+      "challenge": {},
+      "climax": {}
+   }
+}

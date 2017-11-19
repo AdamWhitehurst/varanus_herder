@@ -8,7 +8,7 @@
    "description": "i18n(vranherd:jobs.vranherd.vranherd_description.description)",
    "controller": "vranherd:class:vranherd",
    "requirements": "i18n(vranherd:jobs.vranherd.vranherd_description.requirements)",
-   "talisman_uri": "vranherd:talisman",
+   "talisman_uri": "vranherd:varanus:egg",
    "default_stance": "passive",
    "icon": "file(images/icon.png)",
    "parent_job": "stonehearth:jobs:trapper",

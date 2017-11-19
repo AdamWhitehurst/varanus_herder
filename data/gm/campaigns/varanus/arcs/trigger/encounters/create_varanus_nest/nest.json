@@ -1,0 +1,23 @@
+{
+   "type": "camp_piece",
+   "entities": {
+      "nest": {
+         "uri": "stonehearth:decoration:firepit",
+         "force_iconic": false,
+         "location": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+         }
+      },
+      "egg": {
+         "uri": "vranherd:varanus:egg",
+         "force_iconic": true,
+         "location": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+         }
+      }
+   }
+}

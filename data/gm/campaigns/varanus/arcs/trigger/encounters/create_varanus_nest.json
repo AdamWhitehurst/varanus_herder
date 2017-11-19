@@ -1,0 +1,39 @@
+{
+   "type": "encounter",
+   "encounter_type": "create_camp",
+   "rarity": "common",
+   "in_edge": "start",
+   "create_camp_info": {
+      "amenity_with_player": "hostile",
+      "npc_player_id": "forest",
+      "ctx_entity_registration_path": "create_varanus_nest",
+      "radius": 10,
+      "keep_grass": true,
+      "spawn_range": {
+         "min": 0,
+         "max": 300
+      },
+      "combat_bulletin": {
+         "title": "i18n(vranherd:data.gm.campaigns.varanus.varanus_nest.combat_bulletin.title)"
+      },
+      "pieces": {
+         "nest": {
+            "info": "file(create_varanus_nest/nest.json)",
+            "position": { "x": 3, "y": 3 }
+         }
+      },
+      "citizens": {
+         "red_varanus": {
+            "from_population": {
+               "role": "alligator",
+               "location": { "x": 0, "z": 0 },
+               "min": 2,
+               "max": 2,
+               "range": 5
+            },
+            "combat_leash_range": 15,
+            "tuning": "stonehearth:monster_tuning:forest:insane_alligator"
+         }
+      }
+   }
+}

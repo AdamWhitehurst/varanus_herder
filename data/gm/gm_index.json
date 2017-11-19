@@ -1,0 +1,8 @@
+{
+   "type": "index",
+   "campaigns": {
+      "varanus": {
+         "varanus_campaign": "file(campaigns/varanus/varanus_campaign.json)"
+      }
+   }
+}

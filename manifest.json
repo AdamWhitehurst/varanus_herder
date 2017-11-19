@@ -6,6 +6,7 @@
    },
    "default_locale": "en",
    "aliases": {
+      "data:gm_index": "file(data/gm/gm_index.json)",
       "jobs:vranherd": "file(jobs/vranherd/vranherd_description.json)",
       "leash": "file(jobs/vranherd/vranherd_leash/vranherd_leash.json)",
       "talisman": "file(jobs/vranherd/vranherd_leash/vranherd_leash_talisman.json)",
@@ -17,11 +18,15 @@
    "functions": {},
    "mixintos": {
       "/stonehearth/data/ui/start_menu.json": "file(mixins/start_menu.json)",
-      "stonehearth:jobs:index": "file(jobs/index.json)"
+      "stonehearth:jobs:index": "file(jobs/index.json)",
+      "stonehearth:data:gm_index": "vranherd:data:gm_index"
    },
    "ui": {
       "js": [],
       "html": [],
-      "less": []
+      "less": [
+         "file(ui/root/css/variables.less)",
+         "file(ui/game/promotion_tree/promotion_tree.less)"
+      ]
    }
 }

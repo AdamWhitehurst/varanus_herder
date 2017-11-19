@@ -1,0 +1,7 @@
+{
+   "type": "arc",
+   "rarity": "common",
+   "encounters": {
+      "create varanus nest": "file(encounters/create_varanus_nest.json)"
+   }
+}
