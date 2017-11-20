@@ -16,7 +16,7 @@
    "abilities": "file(vranherd_abilities)",
    "equipment": {
       "torso": "file(vranherd_outfit)",
-      "mainhand": "vranherd:leash"
+      "mainhand": "vranherd:varanus:egg"
    },
    "roles": "vranherd_job shepherd_job",
    "promotion_activity_name": "promote_vranherd",

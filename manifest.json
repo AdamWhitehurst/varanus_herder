@@ -7,8 +7,11 @@
    "default_locale": "en",
    "aliases": {
       "data:gm_index": "file(data/gm/gm_index.json)",
+      "decoration:varanus_nest": "file(entities/decoration/varanus_nest/varanus_nest.json)",
       "jobs:vranherd": "file(jobs/vranherd/vranherd_description.json)",
       "leash": "file(jobs/vranherd/vranherd_leash/vranherd_leash.json)",
+      "monsters:forest:varanus": "file(entities/monsters/forest/varanus/varanus.json)",
+      "monsters:forest:varanus:teeth_weapon": "file(entities/monsters/forest/varanus/varanus_teeth.json)",
       "talisman": "file(jobs/vranherd/vranherd_leash/vranherd_leash_talisman.json)",
       "varanus:egg": "file(entities/critters/varanus/egg/varanus_egg.json)"
    },

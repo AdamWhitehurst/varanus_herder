@@ -8,7 +8,21 @@
          "placeable_on_ground": true,
          "hide_undeploy_ui": true
       },
-      "stonehearth:evolve": {}
+      "stonehearth:evolve": {},
+      "stonehearth:equipment_piece": {
+         "slot": "mainhand",
+         "render_type": "attach_to_bone",
+         "postures": [
+            "stonehearth:combat",
+            "stonehearth:patrol"
+         ]
+      },
+      "effect_list": {
+         "default": "stonehearth:effects:talisman_glow"
+      },
+      "stonehearth:promotion_talisman": {
+         "job": "vranherd:jobs:vranherd"
+      }
    },
    "entity_data": {
       "stonehearth:evolve_data": {

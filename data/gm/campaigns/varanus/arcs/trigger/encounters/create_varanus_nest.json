@@ -32,7 +32,7 @@
                "range": 5
             },
             "combat_leash_range": 15,
-            "tuning": "stonehearth:monster_tuning:forest:insane_alligator"
+            "tuning": "stonehearth:monster_tuning:forest:easy_alligator"
          }
       }
    }
